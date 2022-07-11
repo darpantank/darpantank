@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Core Java
--  🤔 I’m looking Fresh Postion In Corporate
+- 🌱 I’m currently Studying In GecGn
+-  🔭 2023 IT branch PassOut...
+-  📫 I’m looking Fresh Position In Corporate
 <!--
 **darpantank/darpantank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
